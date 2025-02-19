@@ -1,10 +1,12 @@
 Neighborhood,Location,Bedrooms,Bathrooms,House Size (m^2),Price (k€)
-West Hollywood,Los Angeles,3,2,150,800
-Upper East Side,New York City,4,3,200,1200
-South Beach,Miami,2,1,100,500
-Georgetown,Washington D.C.,5,4,300,1500
-Pacific Heights,San Francisco,3,2,180,1000
-Old Town,Chicago,2,1,120,600
-Beverly Hills,Los Angeles,5,5,400,2000
-Back Bay,Boston,4,3,220,1300
-Downtown,Seattle,2,2,130,700
+West Hollywood,Los Angeles,3,2,150,1200
+Upper East Side,New York City,4,3,200,1800
+South Beach,Miami,2,1,100,800
+Georgetown,Washington D.C.,5,4,300,2500
+Pacific Heights,San Francisco,3,2,180,1500
+Old Town,Chicago,4,3,220,1900
+Beverly Hills,Los Angeles,5,5,400,3500
+Back Bay,Boston,2,1,120,1000
+Downtown,Seattle,3,2,160,1300
+South End,Boston,4,3,220,1800
+South Loop,Chicago,2,1,110,900
